@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:black;
+    height: 70px;
+    border: 5px solid darkblue;
+   
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    list-style-type: square;
+    
+}
+
+    
+
+h1{
+    font-size: 40px;
+    color: black;
+    
+    
+}
+h5{
+    font-size: 15px;
+}
+img{
+    width: 30%;
+    height: 50vh;
+}
+
+    
+
+
+
+
